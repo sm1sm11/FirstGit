@@ -11,9 +11,9 @@ namespace FirstGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-             Console.WriteLine("Hello Updated");
-            
-            
+            Console.WriteLine("Hello Updated");
+
+
             Console.WriteLine("Hello From gitgub");
 
             Console.WriteLine("Hello ME");
@@ -24,5 +24,17 @@ namespace FirstGit
 
             Console.ReadLine();
         }
+
+        public class Student
+        {
+            public int id { get; set; }
+            public int rollnumber { get; set; }
+            public string name { get; set; }
+            public string gender { get; set; }
+
+
+
+        }
+
     }
 }
