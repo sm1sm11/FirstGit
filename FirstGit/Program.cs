@@ -18,6 +18,8 @@ namespace FirstGit
 
             Console.WriteLine("Hello ME");
 
+            Console.WriteLine("hello from featurea");
+
 
             Console.ReadLine();
         }
