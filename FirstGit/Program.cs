@@ -12,6 +12,9 @@ namespace FirstGit
         {
             Console.WriteLine("Hello");
 
+            Console.WriteLine("Hello ME");
+
+
             Console.ReadLine();
         }
     }
