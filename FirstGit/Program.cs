@@ -21,6 +21,11 @@ namespace FirstGit
             Console.WriteLine("hello from featurea");
             Console.WriteLine("change in remote feature a branch");
 
+            Student s = new Student();
+
+
+
+
 
             Console.ReadLine();
         }
@@ -31,8 +36,6 @@ namespace FirstGit
             public int rollnumber { get; set; }
             public string name { get; set; }
             public string gender { get; set; }
-
-
 
         }
 
