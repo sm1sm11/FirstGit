@@ -11,6 +11,7 @@ namespace FirstGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+             Console.WriteLine("Hello Updated");
 
             Console.ReadLine();
         }
