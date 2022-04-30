@@ -22,7 +22,8 @@ namespace FirstGit
             Console.WriteLine("change in remote feature a branch");
 
             Student s = new Student();
-
+            s.name = "sagar";
+            s.gender = "male";
 
 
 
